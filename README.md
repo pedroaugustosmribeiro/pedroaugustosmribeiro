@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 
 I'm Pedro A. S. M. Ribeiro, a brazilian meteorologist.
 
-- 🔭 I’m going to present my master's thesis: Influence of Vertical Windshear on Thunderstorms structure in South America.
-25th March, 2022 14:00 UTC-3 @ https://www.youtube.com/watch?v=MYCLWy6Aq84 . Don't miss out!
+- 🔭 I presented my master's thesis: Influence of Vertical Windshear on Thunderstorms structure in South America.
+in 25th March, 2022 14:00 UTC-3 @ https://www.youtube.com/watch?v=MYCLWy6Aq84 . Recording is available, check out!
 - ☔ I’m looking to collaborate on weather nowcasting and forecasting for civil defense 🌀
 - ⚡ Fun fact: I love trains 🚂🚠🚄
 
