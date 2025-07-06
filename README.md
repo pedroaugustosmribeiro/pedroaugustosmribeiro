@@ -17,7 +17,7 @@ I'm Pedro A. S. M. Ribeiro, a brazilian meteorologist.
 in 25th March, 2022 14:00 UTC-3 @ https://www.youtube.com/watch?v=MYCLWy6Aq84 . Recording is available, check out!
 - ☔ I’ve worked working with Machine Learning applied to climat impact forecast 🌀
 - ⚡ Fun fact: I love trains 🚂🚠🚄
-- Soon some news, be tuned!
+- 🌧️ I'm now working as a Weather Station Meteorologist at the University of São Paulo, among other things, observing the atmosphere 🌡️
 
 #### My Toolset
 
